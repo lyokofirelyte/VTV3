@@ -1,0 +1,8 @@
+name: VTV3
+version: 1
+prefix: VTV3
+main: com.github.lyokofirelyte.VTV3.VTV3
+author: Lyoko Firelyte
+
+softdepend:
+  - Vault

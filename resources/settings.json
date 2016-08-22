@@ -1,0 +1,14 @@
+{
+	"JAVA_HOME":"none",
+	
+	"MYSQL":{
+		"IP":"000.000.000.000",
+		"PORT":3306,
+		"USER":"admin",
+		"PASS":"password",
+		"DB":"vtv3",
+		"ENABLED":true
+	},
+
+	"PLUGIN_ENABLED":false
+}
